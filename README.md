@@ -49,5 +49,16 @@ The ADS Detection Tool is a software solution designed to detect, analyze, and m
 5. **Manage ADS Files**: Use the options to add, extract, or delete ADS files as needed.
 
 ## Screenshots
-<img src="img/1.jpg" alt="Description of the image" width="500">
 *Main Interface of the ADS Detection Tool*
+
+<img src="img/1.jpg" alt="Main Interface of the ADS Detection Tool" width="500">
+
+*Scanning Results with Detected ADS Files*
+
+<img src="img/5.jpg" alt="Main Interface of the ADS Detection Tool" width="500">
+
+# Demo Video
+
+
+https://github.com/user-attachments/assets/35ec0867-a608-430d-8d9f-21d15bc78568
+
