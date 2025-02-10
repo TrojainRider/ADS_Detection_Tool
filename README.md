@@ -21,6 +21,20 @@ Comprehensive Reporting: Displays detailed information about detected ADS files,
 - Python: Ensure Python 3.x is installed on your system.
 
 - Libraries: Install the required Python libraries using the following command:
-```
-pip install requests tkinter
-```
+  ```
+  pip install requests tkinter
+  ```
+### Steps
+1. Clone the repository:
+  ```
+  git clone https://github.com/your-username/ADS-Detection-Tool.git
+  ``` 
+3. Navigate to the project directory:
+  ```
+  cd ADS-Detection-Tool
+  ```
+5. Run the tool:
+  ```
+  ADS_Detection_Tool_Windows_1.5_setup.exe
+  ```
+
