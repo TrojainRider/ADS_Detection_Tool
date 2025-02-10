@@ -62,3 +62,7 @@ The ADS Detection Tool is a software solution designed to detect, analyze, and m
 
 https://github.com/user-attachments/assets/35ec0867-a608-430d-8d9f-21d15bc78568
 
+# Contact
+For any questions or feedback, feel free to reach out to me at:
+
+Osama Aljedy (TrojanRider): osamaaljedy02@gmail.com
