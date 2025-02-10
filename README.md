@@ -13,3 +13,11 @@ User-Friendly GUI: Provides an intuitive interface for easy navigation and opera
 ADS Management: Allows users to add, extract, and delete ADS files.
 
 Comprehensive Reporting: Displays detailed information about detected ADS files, including metadata and potential threats.
+
+## Installation
+### Prerequisites
+- Operating System: Windows (NTFS file system required).
+
+- Python: Ensure Python 3.x is installed on your system.
+
+- Libraries: Install the required Python libraries using the following command:
