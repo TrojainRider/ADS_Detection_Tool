@@ -21,6 +21,6 @@ Comprehensive Reporting: Displays detailed information about detected ADS files,
 - Python: Ensure Python 3.x is installed on your system.
 
 - Libraries: Install the required Python libraries using the following command:
-'''
+```
 pip install requests tkinter
-'''
+```
